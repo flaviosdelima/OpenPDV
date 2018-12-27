@@ -1,0 +1,28 @@
+{
+  "name": "openpdv",
+  "version": "1.0.0",
+  "description": "Um PDV OpenSource",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "electron":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviosdelima/OpenPDV.git"
+  },
+  "keywords": [
+    "openpdv"
+  ],
+  "author": "Flavio S. de Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviosdelima/OpenPDV/issues"
+  },
+  "homepage": "https://github.com/flaviosdelima/OpenPDV#readme",
+  "dependencies": {
+    "electron": "^4.0.0"
+  }
+}
